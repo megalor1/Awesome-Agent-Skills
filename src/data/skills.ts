@@ -808,7 +808,7 @@ export const skills: Skill[] = [
     {
         id: 'xquik-x-twitter-scraper',
         name: 'Xquik x-twitter-scraper',
-        description: 'X/Twitter 数据与自动化 Skill，覆盖推文搜索、用户推文、粉丝导出、媒体下载、监控、webhooks、MCP、SDK 和确认式写入。',
+        description: 'X/Twitter 数据与自动化 Skill，覆盖推文搜索、用户推文、粉丝导出、媒体下载、监控、webhooks、MCP、SDK 和确认式写入。 Not affiliated with X Corp.',
         category: 'data',
         source: 'community',
         tags: ['Twitter', 'Search', 'MCP', 'SDK'],
@@ -1021,7 +1021,7 @@ export const skills: Skill[] = [
         category: 'infrastructure',
         source: 'community',
         tags: ['Docker', 'Containers', 'DevOps'],
-        repoUrl: 'https://github.com/docker/awesome-docker',
+        repoUrl: 'https://github.com/veggiemonk/awesome-docker',
         stars: 30000,
     },
     {
